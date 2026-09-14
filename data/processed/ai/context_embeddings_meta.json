@@ -1,0 +1,6 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "row_count": 89583,
+  "dimension": 384,
+  "dataset_fingerprint": "4247f5cc21301245539e271367b8c2f6b16c8ae58fd46c254a523fe94fd468b4"
+}

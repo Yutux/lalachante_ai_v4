@@ -1,0 +1,9 @@
+reference_track,reference_artist,reference_genre,mean_cosine_similarity,same_genre_ratio,artist_diversity_ratio
+18 ~eighteen~,Masaharu Fukuyama,acoustic,0.9669,0.5,1.0
+Love,Greyboy;Nino Moschella,afrobeat,0.9879,0.5,1.0
+Compass,The Neighbourhood,alt-rock,0.9763,0.5,1.0
+罅隙,Anthony Wong,cantopop,0.9966,0.5,1.0
+Vida Mia,Adriana Varela,tango,0.9969,0.5,1.0
+I'll Meet You In The Morning,Appalachian Express,bluegrass,0.9937,0.5,1.0
+School,Robert Hood,chicago-house,0.9916,0.5,1.0
+"Sei Vergnügt, Sing ein Lied!",Alexandra Wilcke,disney,0.9969,0.5,1.0
